@@ -1,0 +1,2 @@
+exports.STATUS_ACTIVE = "ACTIVE";
+exports.STATUS_BLOCKED = "BLOCKED";
